@@ -27,7 +27,7 @@
 
 <p>Here's a demo of the Blood Bank Management System React Project:</p>
 
-<img src="demo.png" alt="Blood Bank Management System React Project Demo">
+
 
 <!-- Getting Started -->
 <h3>Getting Started</h3>
