@@ -2,8 +2,10 @@ import React from 'react'
 import Navbar from './Navbar'
 
 const Requestblood = () => {
-  return (
+  return (<>
     <Navbar/>
+    <h2>Requestblood...</h2>
+    </>
   )
 }
 

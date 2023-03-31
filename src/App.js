@@ -17,7 +17,9 @@ function App() {
           <Route path="/Donateblood" exact element={<Donateblood />} />
           <Route path="/Requestblood" exact element={<Requestblood />} />
           <Route path="/Bloodbanks" exact element={<Bloodbanks />} />
-          <Route path="/Register" exact element={<Register />} />
+          <Route path="/donar_reg" exact element={<Register />} />
+          <Route path="/requer_reg" exact element={<Register />} />
+          <Route path="/Bank_reg" exact element={<Register />} />
 
         </Routes>
       </BrowserRouter>
