@@ -6,6 +6,8 @@ import Login from "./components/Login";
 import Register from "./components/Register";
 import Requestblood from "./components/Requestblood";
 import Home from "./pages/Home";
+import BB_Registerson from "./components/BB_Registerson";
+import D_Registers from "./components/D_Registers";
 
 function App() {
   return (
@@ -17,9 +19,9 @@ function App() {
           <Route path="/Donateblood" exact element={<Donateblood />} />
           <Route path="/Requestblood" exact element={<Requestblood />} />
           <Route path="/Bloodbanks" exact element={<Bloodbanks />} />
-          <Route path="/donar_reg" exact element={<Register />} />
+          <Route path="/donar_reg" exact element={<D_Registers/>} />
           <Route path="/requer_reg" exact element={<Register />} />
-          <Route path="/Bank_reg" exact element={<Register />} />
+          <Route path="/Bank_reg" exact element={<BB_Registerson />} />
 
         </Routes>
       </BrowserRouter>

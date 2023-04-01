@@ -1,10 +1,10 @@
-import React from "react";
-import Navbar from "./Navbar";
+import React from 'react'
+import Navbar from './Navbar'
 
-const Register = () => {
+const D_Registers = () => {
   return (
     <>
-      <Navbar />
+    <Navbar />
       <section className="h-100" style={{ backgroundColor: "#ffffff" }}>
         <div className="container py-3 h-100">
           <div className="row d-flex justify-content-center align-items-center h-100">
@@ -13,7 +13,7 @@ const Register = () => {
                 <div className="row g-0 modal-body px-5 py-3 pt-0">
                   <div className="modal-header border-bottom-0">
                     <h1 className="fw-bold mb-0 fs-3">
-                      Welcome to Raktamokshablood Request Form 
+                      Welcome to Raktamoksha Donar Registration Form
 
                     </h1>
                   </div>
@@ -182,8 +182,8 @@ const Register = () => {
           </div>
         </div>
       </section>
-    </>
-  );
-};
+      </>
+  )
+}
 
-export default Register;
+export default D_Registers
