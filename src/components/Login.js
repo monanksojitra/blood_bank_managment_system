@@ -1,4 +1,5 @@
 import React from "react";
+
 import Navbar from "./Navbar";
 
 const Login = () => {
@@ -55,24 +56,32 @@ const Login = () => {
                           </ul>
                         </div>
 
-                        <div className="form-floating mb-3">
-                          <input
-                            type="email"
-                            className="form-control rounded-3"
-                            id="floatingInput"
-                            placeholder="name@example.com"
-                          />
-                          <label htmlFor="floatingInput">Email address</label>
-                        </div>
-                        <div className="form-floating mb-3">
-                          <input
-                            type="password"
-                            className="form-control rounded-3"
-                            id="floatingPassword"
-                            placeholder="Password"
-                          />
-                          <label htmlFor="floatingPassword">Password</label>
-                        </div>
+                        <div className="input-group mb-3">
+  <span className="input-group-text w-25 bg-light" id="basic-addon1">
+    Email 
+  </span>
+  <input
+    type="text"
+    className="form-control"
+    placeholder="Ex . abcd@email.com"
+    aria-label="Email"
+    aria-describedby="basic-addon1"
+  />
+</div>
+                        <div className="input-group mb-3">
+  <span className="input-group-text w-25 bg-light" id="basic-addon1">
+    Password
+  </span>
+  <input
+    type="text"
+    className="form-control"
+    placeholder="Ex. asdf1234"
+    aria-label="Password"
+    aria-describedby="basic-addon1"
+  />
+</div>
+
+
                         <button
                           className="w-100 mb-2 btn btn-lg rounded-3 text-light "
                           type="submit"

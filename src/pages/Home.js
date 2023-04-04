@@ -5,12 +5,14 @@ import Gallery_2 from "../components/Gallery_2";
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Top from "../components/Top";
+import FIndBlood from "../components/FIndBlood";
 
 const Home = () => {
   return (
     <>
       <Navbar />
       <Top />
+      <FIndBlood/>
       <Hero />
       <Gallery />
       <Gallery_2 />
