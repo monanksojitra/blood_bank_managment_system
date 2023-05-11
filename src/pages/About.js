@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 const About = () => {
   return (
     <>
-      <Navbar/>
+      <Navbar />
       <div className="bg-light">
         <div className="container py-5">
           <div className="row h-100 align-items-center py-5">
@@ -89,7 +89,7 @@ const About = () => {
           </div>
           <div className="row text-center">
             {/* Team item*/}
-            <div className="col-xl-3 col-sm-6 mb-5">
+            {/* <div className="col-xl-3 col-sm-6 mb-5">
               <div className="bg-white rounded shadow-sm py-5 px-4">
                 <img
                   src="https://bootstrapious.com/i/snippets/sn-about/avatar-4.png"
@@ -124,7 +124,7 @@ const About = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
             {/* End*/}
             {/* Team item*/}
             <div className="col-xl-3 col-sm-6 mb-5">
@@ -135,7 +135,7 @@ const About = () => {
                   width={100}
                   className="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
                 />
-                <h5 className="mb-0">Samuel Hardy</h5>
+                <h5 className="mb-0">Monank Sojitra</h5>
                 <span className="small text-uppercase text-muted">
                   CEO - Founder
                 </span>
@@ -163,6 +163,7 @@ const About = () => {
                 </ul>
               </div>
             </div>
+         
             {/* End*/}
             {/* Team item*/}
             <div className="col-xl-3 col-sm-6 mb-5">
@@ -173,7 +174,7 @@ const About = () => {
                   width={100}
                   className="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
                 />
-                <h5 className="mb-0">Tom Sunderland</h5>
+                <h5 className="mb-0">Anil Chauhan</h5>
                 <span className="small text-uppercase text-muted">
                   CEO - Founder
                 </span>
@@ -211,7 +212,7 @@ const About = () => {
                   width={100}
                   className="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
                 />
-                <h5 className="mb-0">John Tarly</h5>
+                <h5 className="mb-0">Ashish Ziniya</h5>
                 <span className="small text-uppercase text-muted">
                   CEO - Founder
                 </span>
@@ -240,13 +241,49 @@ const About = () => {
               </div>
             </div>
             {/* End*/}
+            <div className="col-xl-3 col-sm-6 mb-5">
+              <div className="bg-white rounded shadow-sm py-5 px-4">
+                <img
+                  src="https://bootstrapious.com/i/snippets/sn-about/avatar-3.png"
+                  alt=""
+                  width={100}
+                  className="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"
+                />
+                <h5 className="mb-0">Sandip Dabhi</h5>
+                <span className="small text-uppercase text-muted">
+                  CEO - Founder
+                </span>
+                <ul className="social mb-0 list-inline mt-3">
+                  <li className="list-inline-item">
+                    <a href="#" className="social-link">
+                      <i className="fa fa-facebook-f" />
+                    </a>
+                  </li>
+                  <li className="list-inline-item">
+                    <a href="#" className="social-link">
+                      <i className="fa fa-twitter" />
+                    </a>
+                  </li>
+                  <li className="list-inline-item">
+                    <a href="#" className="social-link">
+                      <i className="fa fa-instagram" />
+                    </a>
+                  </li>
+                  <li className="list-inline-item">
+                    <a href="#" className="social-link">
+                      <i className="fa fa-linkedin" />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <footer className="bg-light pb-5">
         <div className="container text-center">
           <p className="font-italic text-muted mb-0">
-            © Copyrights Company.com All rights reserved.
+            © Copyrights Raktamoksha All rights reserved.
           </p>
         </div>
       </footer>

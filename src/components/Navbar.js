@@ -92,19 +92,19 @@ const Navbar = () => {
                       </button>
                       <ul className="dropdown-menu dropdown-menu-dark">
                         <li>
-                        <Link className="nav-link" to="/Donateblood">
-                  Donate blood
-                </Link>
+                          <Link className="nav-link" to="/Donateblood">
+                            Donate blood
+                          </Link>
                         </li>
                         <li>
-                        <Link className="nav-link" to="/Requestblood">
-                  Request blood
-                </Link>
+                          <Link className="nav-link" to="/Requestblood">
+                            Request blood
+                          </Link>
                         </li>
                         <li>
-                        <Link className="nav-link" to="/Bloodbanks">
-                  Blood banks
-                </Link>
+                          <Link className="nav-link" to="/Bloodbanks">
+                            Blood banks
+                          </Link>
                         </li>
                       </ul>
                     </li>
