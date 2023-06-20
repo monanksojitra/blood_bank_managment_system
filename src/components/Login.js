@@ -57,30 +57,35 @@ const Login = () => {
                         </div>
 
                         <div className="input-group mb-3">
-  <span className="input-group-text w-25 bg-light" id="basic-addon1">
-    Email 
-  </span>
-  <input
-    type="text"
-    className="form-control"
-    placeholder="Ex . abcd@email.com"
-    aria-label="Email"
-    aria-describedby="basic-addon1"
-  />
-</div>
+                          <span
+                            className="input-group-text w-25 bg-light"
+                            id="basic-addon1"
+                          >
+                            Email
+                          </span>
+                          <input
+                            type="text"
+                            className="form-control"
+                            placeholder="Ex . abcd@email.com"
+                            aria-label="Email"
+                            aria-describedby="basic-addon1"
+                          />
+                        </div>
                         <div className="input-group mb-3">
-  <span className="input-group-text w-25 bg-light" id="basic-addon1">
-    Password
-  </span>
-  <input
-    type="text"
-    className="form-control"
-    placeholder="Ex. asdf1234"
-    aria-label="Password"
-    aria-describedby="basic-addon1"
-  />
-</div>
-
+                          <span
+                            className="input-group-text w-25 bg-light"
+                            id="basic-addon1"
+                          >
+                            Password
+                          </span>
+                          <input
+                            type="text"
+                            className="form-control"
+                            placeholder="Ex. asdf1234"
+                            aria-label="Password"
+                            aria-describedby="basic-addon1"
+                          />
+                        </div>
 
                         <button
                           className="w-100 mb-2 btn btn-lg rounded-3 text-light "

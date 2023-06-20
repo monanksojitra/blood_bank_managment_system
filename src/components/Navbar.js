@@ -101,11 +101,6 @@ const Navbar = () => {
                             Request blood
                           </Link>
                         </li>
-                        <li>
-                          <Link className="nav-link" to="/Bloodbanks">
-                            Blood banks
-                          </Link>
-                        </li>
                       </ul>
                     </li>
                   </ul>
