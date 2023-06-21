@@ -1,12 +1,9 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 // import Bloodbanks from "./components/Bloodbanks";
-import Donateblood from "./components/Donateblood";
 import Login from "./components/Login";
-import Register from "./components/Register";
 import Requestblood from "./components/Requestblood";
 import Home from "./pages/Home";
-import BB_Registerson from "./components/BB_Registerson";
 import D_Registers from "./components/D_Registers";
 import ListofBlood from "./components/ListofBlood";
 import About from "./pages/About";
@@ -21,6 +18,7 @@ import Error_404 from "./pages/admin/Er_404";
 import Error_500 from "./pages/admin/Er_500";
 import Charts from "./pages/admin/charts";
 import Table_admin from "./pages/admin/tables";
+import BloodForm from "./components/Donateblood";
 
 function App() {
   return (
@@ -30,12 +28,10 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/Login" exact element={<Login />} />
-          <Route path="/Donateblood" exact element={<Donateblood />} />
-          <Route path="/Requestblood" exact element={<Requestblood />} />
+          <Route path="/donate_blood" exact element={<BloodForm />} />
+          <Route path="/request_blood" exact element={<Requestblood />} />
           {/* <Route path="/Bloodbanks" exact element={<Bloodbanks />} /> */}
-          <Route path="/donar_reg" exact element={<D_Registers />} />
-          <Route path="/requer_reg" exact element={<Register />} />
-          <Route path="/Bank_reg" exact element={<BB_Registerson />} />
+          <Route path="/registers" exact element={<D_Registers />} />
           <Route path="/findDonor" exact element={<ListofBlood />} />
           <Route path="/admin" exact element={<Admin />} />
           <Route path="/layou_static" exact element={<Layou_static />} />
