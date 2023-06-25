@@ -2,7 +2,7 @@ import React from "react";
 import "../css/tabel.css";
 import "../css/main.css";
 import { List } from "reactstrap";
-import List_json from "../../../blood_list.json";
+import List_json from "../../../Blood_List_ser.json";
 
 const List_of_bb = () => {
   return (

@@ -1,0 +1,453 @@
+ [
+    {
+      "registrationNumber": "BD001",
+      "bloodBankName": "ABC Blood Bank",
+      "cityName": "City A",
+      "address": "123 Main Street, City A",
+      "active": true,
+      "contactInfo": "+1 123-456-7890",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD002",
+      "bloodBankName": "XYZ Blood Bank",
+      "cityName": "City B",
+      "address": "456 Elm Street, City B",
+      "active": false,
+      "contactInfo": "+1 987-654-3210",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD003",
+      "bloodBankName": "PQR Blood Bank",
+      "cityName": "City C",
+      "address": "789 Oak Street, City C",
+      "active": true,
+      "contactInfo": "+1 555-123-4567",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD004",
+      "bloodBankName": "MNO Blood Bank",
+      "cityName": "City D",
+      "address": "321 Pine Street, City D",
+      "active": true,
+      "contactInfo": "+1 444-555-6666",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD005",
+      "bloodBankName": "RST Blood Bank",
+      "cityName": "City E",
+      "address": "567 Maple Street, City E",
+      "active": false,
+      "contactInfo": "+1 999-888-7777",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD006",
+      "bloodBankName": "JKL Blood Bank",
+      "cityName": "City F",
+      "address": "987 Cedar Street, City F",
+      "active": true,
+      "contactInfo": "+1 222-333-4444",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD007",
+      "bloodBankName": "GHI Blood Bank",
+      "cityName": "City G",
+      "address": "654 Birch Street, City G",
+      "active": true,
+      "contactInfo": "+1 777-666-5555",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD008",
+      "bloodBankName": "UVW Blood Bank",
+      "cityName": "City H",
+      "address": "234 Oak Street, City H",
+      "active": false,
+      "contactInfo": "+1 888-777-6666",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD009",
+      "bloodBankName": "EFG Blood Bank",
+      "cityName": "City I",
+      "address": "789 Pine Street, City I",
+      "active": true,
+      "contactInfo": "+1 333-444-5555",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD010",
+      "bloodBankName": "LMN Blood Bank",
+      "cityName": "City J",
+      "address": "123 Elm Street, City J",
+      "active": true,
+      "contactInfo": "+1 555-444-3333",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD011",
+      "bloodBankName": "OPQ Blood Bank",
+      "cityName": "City K",
+      "address": "345 Cedar Street, City K",
+      "active": false,
+      "contactInfo": "+1 666-777-8888",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD012",
+      "bloodBankName": "STU Blood Bank",
+      "cityName": "City L",
+      "address": "678 Birch Street, City L",
+      "active": true,
+      "contactInfo": "+1 222-111-0000",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD013",
+      "bloodBankName": "VWX Blood Bank",
+      "cityName": "City M",
+      "address": "890 Oak Street, City M",
+      "active": true,
+      "contactInfo": "+1 999-777-5555",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD014",
+      "bloodBankName": "HIJ Blood Bank",
+      "cityName": "City N",
+      "address": "234 Elm Street, City N",
+      "active": false,
+      "contactInfo": "+1 444-333-2222",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD015",
+      "bloodBankName": "BCD Blood Bank",
+      "cityName": "City O",
+      "address": "567 Cedar Street, City O",
+      "active": true,
+      "contactInfo": "+1 888-999-1111",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD016",
+      "bloodBankName": "QRS Blood Bank",
+      "cityName": "City P",
+      "address": "987 Birch Street, City P",
+      "active": true,
+      "contactInfo": "+1 555-444-3333",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD017",
+      "bloodBankName": "NOP Blood Bank",
+      "cityName": "City Q",
+      "address": "321 Oak Street, City Q",
+      "active": false,
+      "contactInfo": "+1 222-333-4444",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD018",
+      "bloodBankName": "EFG Blood Bank",
+      "cityName": "City R",
+      "address": "654 Elm Street, City R",
+      "active": true,
+      "contactInfo": "+1 777-888-9999",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD019",
+      "bloodBankName": "IJK Blood Bank",
+      "cityName": "City S",
+      "address": "890 Cedar Street, City S",
+      "active": true,
+      "contactInfo": "+1 999-888-7777",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD020",
+      "bloodBankName": "UVW Blood Bank",
+      "cityName": "City T",
+      "address": "234 Birch Street, City T",
+      "active": false,
+      "contactInfo": "+1 333-444-5555",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD021",
+      "bloodBankName": "MNO Blood Bank",
+      "cityName": "City U",
+      "address": "567 Oak Street, City U",
+      "active": true,
+      "contactInfo": "+1 555-666-7777",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD022",
+      "bloodBankName": "PQR Blood Bank",
+      "cityName": "City V",
+      "address": "987 Elm Street, City V",
+      "active": true,
+      "contactInfo": "+1 111-222-3333",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD023",
+      "bloodBankName": "JKL Blood Bank",
+      "cityName": "City W",
+      "address": "321 Cedar Street, City W",
+      "active": false,
+      "contactInfo": "+1 888-777-6666",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD024",
+      "bloodBankName": "XYZ Blood Bank",
+      "cityName": "City X",
+      "address": "654 Birch Street, City X",
+      "active": true,
+      "contactInfo": "+1 444-555-6666",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD025",
+      "bloodBankName": "ABC Blood Bank",
+      "cityName": "City Y",
+      "address": "890 Oak Street, City Y",
+      "active": true,
+      "contactInfo": "+1 222-333-4444",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD026",
+      "bloodBankName": "RST Blood Bank",
+      "cityName": "City Z",
+      "address": "234 Elm Street, City Z",
+      "active": false,
+      "contactInfo": "+1 777-888-9999",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD027",
+      "bloodBankName": "BCD Blood Bank",
+      "cityName": "City A1",
+      "address": "567 Cedar Street, City A1",
+      "active": true,
+      "contactInfo": "+1 999-111-2222",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD028",
+      "bloodBankName": "QRS Blood Bank",
+      "cityName": "City B1",
+      "address": "987 Birch Street, City B1",
+      "active": true,
+      "contactInfo": "+1 222-333-4444",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD029",
+      "bloodBankName": "NOP Blood Bank",
+      "cityName": "City C1",
+      "address": "321 Oak Street, City C1",
+      "active": false,
+      "contactInfo": "+1 555-666-7777",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD030",
+      "bloodBankName": "IJK Blood Bank",
+      "cityName": "City D1",
+      "address": "654 Elm Street, City D1",
+      "active": true,
+      "contactInfo": "+1 888-999-1111",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD031",
+      "bloodBankName": "UVW Blood Bank",
+      "cityName": "City E1",
+      "address": "890 Cedar Street, City E1",
+      "active": true,
+      "contactInfo": "+1 333-444-5555",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD032",
+      "bloodBankName": "EFG Blood Bank",
+      "cityName": "City F1",
+      "address": "234 Birch Street, City F1",
+      "active": false,
+      "contactInfo": "+1 999-888-7777",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD033",
+      "bloodBankName": "LMN Blood Bank",
+      "cityName": "City G1",
+      "address": "567 Oak Street, City G1",
+      "active": true,
+      "contactInfo": "+1 666-777-8888",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD034",
+      "bloodBankName": "OPQ Blood Bank",
+      "cityName": "City H1",
+      "address": "987 Elm Street, City H1",
+      "active": true,
+      "contactInfo": "+1 444-555-6666",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD035",
+      "bloodBankName": "STU Blood Bank",
+      "cityName": "City I1",
+      "address": "321 Cedar Street, City I1",
+      "active": false,
+      "contactInfo": "+1 111-222-3333",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD036",
+      "bloodBankName": "VWX Blood Bank",
+      "cityName": "City J1",
+      "address": "654 Birch Street, City J1",
+      "active": true,
+      "contactInfo": "+1 777-888-9999",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD037",
+      "bloodBankName": "HIJ Blood Bank",
+      "cityName": "City K1",
+      "address": "890 Oak Street, City K1",
+      "active": true,
+      "contactInfo": "+1 444-333-2222",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD038",
+      "bloodBankName": "BCD Blood Bank",
+      "cityName": "City L1",
+      "address": "234 Elm Street, City L1",
+      "active": false,
+      "contactInfo": "+1 999-888-7777",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD039",
+      "bloodBankName": "QRS Blood Bank",
+      "cityName": "City M1",
+      "address": "567 Cedar Street, City M1",
+      "active": true,
+      "contactInfo": "+1 666-555-4444",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD040",
+      "bloodBankName": "NOP Blood Bank",
+      "cityName": "City N1",
+      "address": "987 Birch Street, City N1",
+      "active": true,
+      "contactInfo": "+1 333-222-1111",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD041",
+      "bloodBankName": "IJK Blood Bank",
+      "cityName": "City O1",
+      "address": "321 Oak Street, City O1",
+      "active": false,
+      "contactInfo": "+1 777-666-5555",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD042",
+      "bloodBankName": "UVW Blood Bank",
+      "cityName": "City P1",
+      "address": "654 Elm Street, City P1",
+      "active": true,
+      "contactInfo": "+1 222-111-0000",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD043",
+      "bloodBankName": "EFG Blood Bank",
+      "cityName": "City Q1",
+      "address": "890 Cedar Street, City Q1",
+      "active": true,
+      "contactInfo": "+1 999-777-5555",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD044",
+      "bloodBankName": "LMN Blood Bank",
+      "cityName": "City R1",
+      "address": "234 Birch Street, City R1",
+      "active": false,
+      "contactInfo": "+1 444-333-2222",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD045",
+      "bloodBankName": "OPQ Blood Bank",
+      "cityName": "City S1",
+      "address": "567 Oak Street, City S1",
+      "active": true,
+      "contactInfo": "+1 888-999-1111",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD046",
+      "bloodBankName": "STU Blood Bank",
+      "cityName": "City T1",
+      "address": "987 Elm Street, City T1",
+      "active": true,
+      "contactInfo": "+1 555-666-7777",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD047",
+      "bloodBankName": "VWX Blood Bank",
+      "cityName": "City U1",
+      "address": "321 Cedar Street, City U1",
+      "active": false,
+      "contactInfo": "+1 222-333-4444",
+      "status": true
+    },
+    {
+      "registrationNumber": "BD048",
+      "bloodBankName": "HIJ Blood Bank",
+      "cityName": "City V1",
+      "address": "654 Birch Street, City V1",
+      "active": true,
+      "contactInfo": "+1 777-888-9999",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD049",
+      "bloodBankName": "BCD Blood Bank",
+      "cityName": "City W1",
+      "address": "890 Oak Street, City W1",
+      "active": true,
+      "contactInfo": "+1 999-111-2222",
+      "status": false
+    },
+    {
+      "registrationNumber": "BD050",
+      "bloodBankName": "QRS Blood Bank",
+      "cityName": "City X1",
+      "address": "234 Elm Street, City X1",
+      "active": false,
+      "contactInfo": "+1 666-777-8888",
+      "status": true
+    }
+  ]
+

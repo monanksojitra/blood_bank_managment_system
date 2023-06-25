@@ -7,12 +7,14 @@ import Navbar from "../components/Navbar";
 import Top from "../components/Top";
 import FIndBlood from "../components/FIndBlood";
 
+import "@fortawesome/fontawesome-free/css/all.min.css";
+
 const Home = () => {
   return (
     <>
       <Navbar />
       <Top />
-      <FIndBlood/>
+      <FIndBlood />
       <Hero />
       <Gallery />
       <Gallery_2 />
