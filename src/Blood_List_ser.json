@@ -1,0 +1,146 @@
+[
+  {
+    "registrationNumber": "BD001",
+    "bloodBankName": "ABC Blood Bank",
+    "cityName": "Varanasi",
+    "address": "123 Main Street, Varanasi",
+    "active": true,
+    "contactInfo": "+1 123-456-7890",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD002",
+    "bloodBankName": "XYZ Blood Bank",
+    "cityName": "Ayodhya",
+    "address": "456 Elm Street, Ayodhya",
+    "active": false,
+    "contactInfo": "+1 987-654-3210",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD003",
+    "bloodBankName": "PQR Blood Bank",
+    "cityName": "Jaipur",
+    "address": "789 Oak Street, Jaipur",
+    "active": true,
+    "contactInfo": "+1 555-123-4567",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD004",
+    "bloodBankName": "MNO Blood Bank",
+    "cityName": "Lucknow",
+    "address": "321 Pine Street, Lucknow",
+    "active": true,
+    "contactInfo": "+1 444-555-6666",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD005",
+    "bloodBankName": "RST Blood Bank",
+    "cityName": "Kolkata",
+    "address": "567 Maple Street, Kolkata",
+    "active": false,
+    "contactInfo": "+1 999-888-7777",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD006",
+    "bloodBankName": "JKL Blood Bank",
+    "cityName": "Chennai",
+    "address": "987 Cedar Street, Chennai",
+    "active": true,
+    "contactInfo": "+1 222-333-4444",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD007",
+    "bloodBankName": "GHI Blood Bank",
+    "cityName": "Delhi",
+    "address": "654 Birch Street, Delhi",
+    "active": true,
+    "contactInfo": "+1 777-666-5555",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD008",
+    "bloodBankName": "UVW Blood Bank",
+    "cityName": "Mumbai",
+    "address": "234 Oak Street, Mumbai",
+    "active": false,
+    "contactInfo": "+1 888-777-6666",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD009",
+    "bloodBankName": "EFG Blood Bank",
+    "cityName": "Bengaluru",
+    "address": "789 Pine Street, Bengaluru",
+    "active": true,
+    "contactInfo": "+1 333-444-5555",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD010",
+    "bloodBankName": "LMN Blood Bank",
+    "cityName": "Hyderabad",
+    "address": "123 Elm Street, Hyderabad",
+    "active": true,
+    "contactInfo": "+1 555-444-3333",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD011",
+    "bloodBankName": "OPQ Blood Bank",
+    "cityName": "Ahmedabad",
+    "address": "456 Cedar Street, Ahmedabad",
+    "active": false,
+    "contactInfo": "+1 777-888-9999",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD012",
+    "bloodBankName": "Surya Blood Bank",
+    "cityName": "Jaipur",
+    "address": "789 Oak Street, Jaipur",
+    "active": true,
+    "contactInfo": "+1 555-123-4567",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD013",
+    "bloodBankName": "Annapurna Blood Bank",
+    "cityName": "Varanasi",
+    "address": "123 Main Street, Varanasi",
+    "active": true,
+    "contactInfo": "+1 123-456-7890",
+    "status": false
+  },
+  {
+    "registrationNumber": "BD014",
+    "bloodBankName": "Sahyadri Blood Bank",
+    "cityName": "Mumbai",
+    "address": "234 Oak Street, Mumbai",
+    "active": false,
+    "contactInfo": "+1 888-777-6666",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD015",
+    "bloodBankName": "Ganga Blood Bank",
+    "cityName": "Kolkata",
+    "address": "567 Maple Street, Kolkata",
+    "active": false,
+    "contactInfo": "+1 999-888-7777",
+    "status": true
+  },
+  {
+    "registrationNumber": "BD016",
+    "bloodBankName": "Kashi Blood Bank",
+    "cityName": "Varanasi",
+    "address": "123 Main Street, Varanasi",
+    "active": true,
+    "contactInfo": "+1 123-456-7890",
+    "status": false
+  }
+]
